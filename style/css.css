@@ -1,0 +1,39 @@
+.justificar {
+    text-align: justify;
+}
+
+.centrar{
+    text-align: center;
+}
+
+body{
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(59,45,253,1) 100%);
+}
+
+.navbar{
+    color: white;
+    background-color: beige;
+    align-content: center;
+}
+.navbar ul li {
+    display: inline-block;
+    padding: 15px;
+    font-size: 16px;
+}
+.navbar ul li:hover {
+    color:white;
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+
+#pie{
+    color: white;
+    font-size: 13px;
+    background-color:gray ;
+    padding: 8px 8px 8px 8px;
+    text-align: center;
+}
